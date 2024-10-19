@@ -5,7 +5,7 @@
 
 This is the readme file for Devops learning.
 
-#files
-#Video
+# Files
+# Video
 # Audio
 # commands
