@@ -9,3 +9,7 @@ This is the readme file for Devops learning.
 # Video
 # Audio
 # commands
+# Lectures
+# Support
+# Communication
+# Contact Me
